@@ -1,0 +1,10 @@
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/bin/Debug/netcoreapp1.1/myFirstApp.deps.json
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/bin/Debug/netcoreapp1.1/myFirstApp.runtimeconfig.json
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/bin/Debug/netcoreapp1.1/myFirstApp.runtimeconfig.dev.json
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/bin/Debug/netcoreapp1.1/myFirstApp.dll
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/bin/Debug/netcoreapp1.1/myFirstApp.pdb
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/obj/Debug/netcoreapp1.1/myFirstApp.csprojResolveAssemblyReference.cache
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/obj/Debug/netcoreapp1.1/myFirstApp.csproj.CoreCompileInputs.cache
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/obj/Debug/netcoreapp1.1/myFirstApp.AssemblyInfo.cs
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/obj/Debug/netcoreapp1.1/myFirstApp.dll
+/Users/Immrotal/Documents/dotNetProjects/myFirstApp/myFirstApp/obj/Debug/netcoreapp1.1/myFirstApp.pdb
